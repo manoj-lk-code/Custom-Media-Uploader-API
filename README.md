@@ -47,4 +47,4 @@ If you encounter issues:
 
 ## Disclaimer
 
-This plugin is provided "as is" without warranty. The authors are not liable for any damages or data loss. Test in a staging environment before use.
+This plugin is provided "as is" without warranty and is created using ChatGPT. The authors are not liable for any damages or data loss. Test in a staging environment before use.
